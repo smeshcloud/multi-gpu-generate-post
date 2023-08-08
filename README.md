@@ -1,3 +1,3 @@
 # multi-provider-generate-post
 
-Generate a SpaceMesh PoST with multi-GPU/CPU support.
+Generate a Spacemesh PoST with multi-GPU/CPU support.
